@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Davi Terres
+
+[[Linkedin (shields.io)](https://img.shields.io/badge/-Linkedin-blue)][Davi Terres | LinkedIn](https://www.linkedin.com/in/davi-t-9b7402126/)
+
 <!--
 **Davez99/Davez99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
