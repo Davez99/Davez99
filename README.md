@@ -17,5 +17,15 @@
 
 "No one ignore everything. No one knows everything. Everyone knows something. Everyone ignore something. For this we learn always." - Paulo Freire
 
+### Olá pessoal 😄🤙
+
+
+- 👨🏻 22 Anos de idade.
+- 🏠 Morando em Curitiba, PR (Brasil).
+- 📚 Graduando em Analise e Desenvolviemento de Sistemas.
+- 👨🏻‍💻  =  ![C# (shields.io)](https://img.shields.io/badge/-C%23-blue), ![ASP.NET (shields.io)](https://img.shields.io/badge/-ASP.NET-blue),  ![Entity Framework (shields.io)](https://img.shields.io/badge/-Entity%20Framework-blue), ![SQL Server (shields.io)](https://img.shields.io/badge/-SQL%20Server-yellow)
+
+"Ninguém ignora tudo. Niguém sabe de tudo. Todos sabemos algo. Todos ignoramos algo. Por isso estamos sempre aprendendo." - Paulo Freire
+
 
 [![LinkedIn (shields.io)](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/davi-t-9b7402126/)  [![E-mail (shields.io)](https://img.shields.io/badge/-E--mail-red)](mailto:davi.mdr@gmail.com)
