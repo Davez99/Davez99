@@ -12,7 +12,7 @@
 
 - 👨🏻 22 Years old.
 - 🏠 Living in Curitiba, PR (Brazil).
-- 📚 Majoring in System Analysis and Development
+- 📚 Graduate in System Analysis and Development
 - 👨🏻‍💻  =  ![C# (shields.io)](https://img.shields.io/badge/-C%23-blue), ![ASP.NET (shields.io)](https://img.shields.io/badge/-ASP.NET-blue),  ![Entity Framework (shields.io)](https://img.shields.io/badge/-Entity%20Framework-blue), ![SQL Server (shields.io)](https://img.shields.io/badge/-SQL%20Server-yellow)
 
 "No one ignore everything. No one knows everything. Everyone knows something. Everyone ignore something. For this we learn always." - Paulo Freire
@@ -22,7 +22,7 @@
 
 - 👨🏻 22 Anos de idade.
 - 🏠 Morando em Curitiba, PR (Brasil).
-- 📚 Graduando em Analise e Desenvolviemento de Sistemas.
+- 📚 Graduado em Analise e Desenvolviemento de Sistemas.
 - 👨🏻‍💻  =  ![C# (shields.io)](https://img.shields.io/badge/-C%23-blue), ![ASP.NET (shields.io)](https://img.shields.io/badge/-ASP.NET-blue),  ![Entity Framework (shields.io)](https://img.shields.io/badge/-Entity%20Framework-blue), ![SQL Server (shields.io)](https://img.shields.io/badge/-SQL%20Server-yellow)
 
 "Ninguém ignora tudo. Niguém sabe de tudo. Todos sabemos algo. Todos ignoramos algo. Por isso estamos sempre aprendendo." - Paulo Freire
