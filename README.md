@@ -10,7 +10,7 @@
 ### Hi everyone 😄🤙
 
 
-- 👨🏻 22 Years old.
+- 👨🏻 24 Years old.
 - 🏠 Living in Curitiba, PR (Brazil).
 - 📚 Graduate in System Analysis and Development
 - 👨🏻‍💻  =  ![C# (shields.io)](https://img.shields.io/badge/-C%23-blue), ![ASP.NET (shields.io)](https://img.shields.io/badge/-ASP.NET-blue),  ![Entity Framework (shields.io)](https://img.shields.io/badge/-Entity%20Framework-blue), ![SQL Server (shields.io)](https://img.shields.io/badge/-SQL%20Server-yellow)
@@ -20,7 +20,7 @@
 ### Olá pessoal 😄🤙
 
 
-- 👨🏻 22 Anos de idade.
+- 👨🏻 24 Anos de idade.
 - 🏠 Morando em Curitiba, PR (Brasil).
 - 📚 Graduado em Analise e Desenvolviemento de Sistemas.
 - 👨🏻‍💻  =  ![C# (shields.io)](https://img.shields.io/badge/-C%23-blue), ![ASP.NET (shields.io)](https://img.shields.io/badge/-ASP.NET-blue),  ![Entity Framework (shields.io)](https://img.shields.io/badge/-Entity%20Framework-blue), ![SQL Server (shields.io)](https://img.shields.io/badge/-SQL%20Server-yellow)
