@@ -14,7 +14,7 @@
 - 🏠 Living in Pinhais, PR (Brazil).
 - 📚 Graduate in System Analysis and Development
 - 📚 Studying for a Postgraduate MBA in Software Engineering
-- 👨🏻‍💻  =  ![C# (shields.io)](https://img.shields.io/badge/-C%23-blue), ![ASP.NET (shields.io)](https://img.shields.io/badge/-ASP.NET-blue),  ![Entity Framework (shields.io)](https://img.shields.io/badge/-Entity%20Framework-blue), ![SQL Server (shields.io)](https://img.shields.io/badge/-SQL%20Server-yellow)
+
 
 "No one ignore everything. No one knows everything. Everyone knows something. Everyone ignore something. For this we learn always." - Paulo Freire
 
@@ -25,7 +25,7 @@
 - 🏠 Morando em Pinhais, PR (Brasil).
 - 📚 Graduado em Analise e Desenvolviemento de Sistemas.
 - 📚 Cursando Pós-Graduação MBA em Engenharia de Softwre
-- 👨🏻‍💻  =  ![C# (shields.io)](https://img.shields.io/badge/-C%23-blue), ![ASP.NET (shields.io)](https://img.shields.io/badge/-ASP.NET-blue),  ![Entity Framework (shields.io)](https://img.shields.io/badge/-Entity%20Framework-blue), ![SQL Server (shields.io)](https://img.shields.io/badge/-SQL%20Server-yellow)
+
 
 "Ninguém ignora tudo. Niguém sabe de tudo. Todos sabemos algo. Todos ignoramos algo. Por isso estamos sempre aprendendo." - Paulo Freire
 
