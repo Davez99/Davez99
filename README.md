@@ -9,20 +9,20 @@
 ---
 
 ### Hi everyone! 😄🤙
-- 👨🏻 **26 Years old**
+- 👨🏻 **27 Years old**
 - 🏠 **Living in Pinhais, PR (Brazil)**
 - 🎓 **Graduate in Systems Analysis and Development**
-- 📚 **Currently pursuing an MBA in Software Engineering**
+- 📚 **Graduate in MBA Software Engineering**
 
 _"No one ignores everything. No one knows everything. Everyone knows something. Everyone ignores something. That is why we are always learning."_ — Paulo Freire
 
 ---
 
 ### Olá pessoal! 😄🤙
-- 👨🏻 **26 Anos de idade**
+- 👨🏻 **27 Anos de idade**
 - 🏠 **Morando em Pinhais, PR (Brasil)**
 - 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
-- 📚 **Cursando MBA em Engenharia de Software**
+- 📚 **Graduado MBA em Engenharia de Software**
 
 _"Ninguém ignora tudo. Ninguém sabe de tudo. Todos sabemos algo. Todos ignoramos algo. Por isso, estamos sempre aprendendo."_ — Paulo Freire
 
